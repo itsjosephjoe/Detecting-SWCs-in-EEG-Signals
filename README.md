@@ -25,9 +25,6 @@ better. The methodology can be divided into 2 parts – Template Matching and Ma
 4. Check on the delay in the output of the matched filter when observing the SWCs in the signal.
 5. Analyze the results.
 
-### CONCLUSION:
-We have seen that peak detection is an essential factor in early and accurate diagnosis of patients who suffer from severe brain disorders when we analyze their EEG readings. Spike-and-Wave complexes, which are of various types, are essential to distinguish whether a patient is mentally healthy or not. By using template matching and matched filtering techniques, healthcare professionals are able to correctly diagnose such individuals, as it is pretty difficult to find these SWCs from the EEG signal itself.
-
 ### REFERENCES:
 #### PAPERS:
 1. Mayo Clinic, “EEG (electroencephalogram) - Mayo Clinic,” www.mayoclinic.org, May 11, 2022. https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875#:~:text=An%20electroencephalogram%20(EEG)%20is%20a
